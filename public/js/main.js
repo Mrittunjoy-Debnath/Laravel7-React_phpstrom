@@ -6827,7 +6827,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".btn{\r\n    border-radius: 0% !important;\r\n}\r\n.btn:focus{\r\n    box-shadow: none;\r\n}\r\n\r\n.nav-logo {\r\n    width: 120px;\r\n    height: 400px;\r\n}\r\n\r\n.nav-font{\r\n    color: #262626!important;\r\n    font-family: Roboto;\r\n    font-weight: 400;\r\n}\r\n\r\n.nav-font:hover{\r\n    color: #2f82c6;\r\n}\r\n\r\n.navbar{\r\n    background-color: white!important;\r\n    border-bottom: 0.2px solid #e4e4e4!important;\r\n}\r\n\r\na{\r\n    text-decoration: none;\r\n}\r\n\r\na:hover{\r\n    text-decoration: none;\r\n}\r\n\r\n.bg-light{\r\n    background-color: #f0f0f0!important;\r\n}\r\n\r\n.login-btn {\r\n    color: white!important;\r\n    background: none;\r\n    border: 1px solid white!important;\r\n    padding-left: 70px!important;\r\n    padding-right: 70px!important;\r\n    font-size: 18px!important;\r\n    font-weight: 600!important;\r\n}\r\n\r\n.btn-outline{\r\n    color: #151446!important;\r\n    background: none;\r\n    border: 1px solid #151446!important;\r\n    padding-left: 20px!important;\r\n    padding-right: 20px!important;\r\n}\r\n\r\n.btn-outline:hover{\r\n    color: white!important;\r\n    background: #2f82c6;\r\n    border: 1px solid #2f82c6!important;\r\n    padding-left: 20px!important;\r\n    padding-right: 20px!important;\r\n}\r\n\r\n.normal-btn{\r\n    color: white!important;\r\n    background-color: #151446!important;\r\n}\r\n\r\n.normal-btn:hover{\r\n    background-color: #2f82c6;\r\n}\r\n\r\n.login-btn:hover{\r\n    color: #2f82c6!important;\r\n    background: white!important;\r\n    padding-left: 70px!important;\r\n    padding-right: 70px!important;\r\n    font-size: 18px;\r\n    font-weight: 600!important;\r\n}\r\n\r\n.parallax{\r\n    background-image: url(" + escape(__webpack_require__(/*! ../images/burger.jpg */ "./resources/images/burger.jpg")) + ");\r\n    min-height: 500px;\r\n    background-attachment: fixed;\r\n    background-position: center;\r\n    background-repeat: no-repeat;\r\n    background-size: cover;\r\n}\r\n\r\n.top-div{\r\n    padding-top: 150px;\r\n    min-height: 500px!important;\r\n    background: none;\r\n}\r\n\r\n.top-title{\r\n    color: white!important;\r\n    font-family: Montserrat,\"Times New Roman\";\r\n    font-size: 50px;\r\n    font-weight: 600;\r\n}\r\n\r\n.top-subtitle{\r\n    color: white!important;\r\n    font-family: Roboto,\"Times New Roman\";\r\n    font-size: 24px;\r\n    font-weight: 300;\r\n}\r\n\r\n.des-text{\r\n    color: #262626!important;\r\n    font-family: Roboto,\"Times New Roman\";\r\n    font-size: 14px;\r\n    font-weight: 300;\r\n}\r\n\r\n.title-text{\r\n    color: #151446!important;\r\n    font-family: Montserrat,\"Times New Roman\";\r\n    font-size: 18px;\r\n    font-weight: 400;\r\n}\r\n\r\n.item-logo{\r\n    width: 50px;\r\n    height: 50px;\r\n}\r\n\r\n.item-logoSmall{\r\n    width: 20px;\r\n    height: 20px;\r\n}\r\n\r\n.play-logo{\r\n    width: 60px;\r\n    height: 60px;\r\n    cursor: pointer;\r\n}\r\n\r\n.section-margin{\r\n    margin-bottom: 50px;\r\n    margin-top: 50px;\r\n}\r\n\r\n.section-marginbg{\r\n    margin-bottom: 100px;\r\n    margin-top: 100px;\r\n}\r\n\r\n.section-marginTop{\r\n    margin-top: 100px;\r\n}\r\n\r\n.bkash-logo{\r\n    width: 120px;\r\n    height: 60px;\r\n}\r\n\r\n.card{\r\n    border-radius: 0% !important;\r\n}\r\n\r\n.modal{\r\n    border-radius: 0% !important;\r\n}\r\n\r\n.card:hover{\r\n    border: 0.5px solid #151446!important;\r\n}\r\n\r\n.offer-img{\r\n    width: 100%;\r\n    height: 200px;\r\n}\r\n\r\n.play-small{\r\n    width: 30px;\r\n    height: 30px;\r\n    cursor: pointer;\r\n}\r\n\r\n.footer-link{\r\n    color:rgba(75,48,223,1)!important;\r\n    text-decoration: none;\r\n}\r\n\r\n.custom-bg{\r\n    background-color: #151446!important;\r\n}\r\n\r\n.classroom-img{\r\n    width: 70%;\r\n}\r\n.form-control:focus{\r\n    border-color: black;\r\n    box-shadow: none;\r\n}\r\n.form-control{\r\n    box-shadow: none;\r\n    font-size: 14px;\r\n    font-weight: 300;\r\n    border-radius: 0% !important;\r\n}\r\n\r\n.card-img{\r\n    width: 100%;\r\n    border-radius: 0% !important;\r\n}\r\n\r\n.card{\r\n    width: 100%;\r\n}\r\n\r\n.credit-text{\r\n    color: white!important;\r\n    font-family: Roboto,\"Times New Roman\";\r\n    font-size: 14px;\r\n    font-weight: 300;\r\n}\r\n\r\n.top-titleClass{\r\n    color: #1a1e21!important;\r\n    font-family: Montserrat,\"Times New Roman\";\r\n    font-size: 40px;\r\n    font-weight: 600;\r\n}\r\n\r\n.top-subtitleClass{\r\n    color: #1a1e21!important;\r\n    font-family: Roboto,\"Times New Roman\";\r\n    font-size: 18px;\r\n    font-weight: 300;\r\n}\r\n\r\n#snackbar{\r\n    visibility: hidden;\r\n    min-width: 250px;\r\n    margin-left: -125px;\r\n    background-color: black;\r\n    color: #fff;\r\n    text-align: center;\r\n    border-radius: 0px;\r\n    padding: 16px;\r\n    position: fixed;\r\n    z-index: 1;\r\n    left: 50%;\r\n    bottom: 30px;\r\n    font-size: 17px;\r\n    font-family: Roboto,\"Times New Roman\";\r\n}\r\n\r\n#snackbar.show{\r\n    visibility: visible;\r\n    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;\r\n    animation: fadein 0.5s, fadeout 0.5s 2.5s;\r\n}\r\n\r\n#snackbarRecover{\r\n    visibility: hidden;\r\n    width: 100%;\r\n    background-color: black;\r\n    color: #fff;\r\n    text-align: center;\r\n    border-radius: 0px;\r\n    padding: 10px;\r\n    font-size: 14px;\r\n    font-family: Roboto,\"Times New Roman\";\r\n    font-weight: 400;\r\n}\r\n\r\n#snackbarRecover.show{\r\n    visibility: visible;\r\n    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;\r\n    animation: fadein 0.5s, fadeout 0.5s 2.5s;\r\n}\r\n\r\n#snackbarReset{\r\n    visibility: hidden;\r\n    width: 100%;\r\n    background-color: black;\r\n    color: #fff;\r\n    text-align: center;\r\n    border-radius: 0px;\r\n    padding: 10px;\r\n    font-size: 14px;\r\n    font-family: Roboto;\r\n    font-weight: 400;\r\n}\r\n#snackbarReset.show{\r\n    visibility: visible;\r\n    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;\r\n    animation: fadein 0.5s, fadeout 0.5s 2.5s;\r\n}\r\n@-webkit-keyframes fade-in {\r\n    from {bottom: 0px; opacity:0;}\r\n    to{bottom: 30px; opacity:1;}\r\n}\r\n\r\n@-webkit-keyframes fadein {\r\n    from {bottom: 0px; opacity:0;}\r\n    to{bottom: 30px; opacity:1;}\r\n}\r\n\r\n@keyframes fadein {\r\n    from {bottom: 0px; opacity:0;}\r\n    to{bottom: 30px; opacity:1;}\r\n}\r\n\r\n@-webkit-keyframes fade-out {\r\n    from {bottom: 30px; opacity:1;}\r\n    to{bottom: 0; opacity:0;}\r\n}\r\n\r\n@keyframes fade-out {\r\n    from {bottom: 30px; opacity:1;}\r\n    to{bottom: 0; opacity:0;}\r\n}\r\n\r\n.user-img{\r\n    width: 200px;\r\n}\r\n", ""]);
+exports.push([module.i, ".btn{\n    border-radius: 0% !important;\n}\n.btn:focus{\n    box-shadow: none;\n}\n\n.nav-logo {\n    width: 120px;\n    height: 400px;\n}\n\n.nav-font{\n    color: #262626!important;\n    font-family: Roboto,\"Times New Roman\";\n    font-weight: 400;\n}\n\n.nav-font:hover{\n    color: #2f82c6;\n}\n\n.navbar{\n    background-color: white!important;\n    border-bottom: 0.2px solid #e4e4e4!important;\n}\n\na{\n    text-decoration: none;\n}\n\na:hover{\n    text-decoration: none;\n}\n\n.bg-light{\n    background-color: #f0f0f0!important;\n}\n\n.login-btn {\n    color: white!important;\n    background: none;\n    border: 1px solid white!important;\n    padding-left: 70px!important;\n    padding-right: 70px!important;\n    font-size: 18px!important;\n    font-weight: 600!important;\n}\n\n.btn-outline{\n    color: #151446!important;\n    background: none;\n    border: 1px solid #151446!important;\n    padding-left: 20px!important;\n    padding-right: 20px!important;\n}\n\n.btn-outline:hover{\n    color: white!important;\n    background: #2f82c6;\n    border: 1px solid #2f82c6!important;\n    padding-left: 20px!important;\n    padding-right: 20px!important;\n}\n\n.normal-btn{\n    color: white!important;\n    background-color: #151446!important;\n}\n\n.normal-btn:hover{\n    background-color: #2f82c6;\n}\n\n.login-btn:hover{\n    color: #2f82c6!important;\n    background: white!important;\n    padding-left: 70px!important;\n    padding-right: 70px!important;\n    font-size: 18px;\n    font-weight: 600!important;\n}\n\n.parallax{\n    background-image: url(" + escape(__webpack_require__(/*! ../images/burger.jpg */ "./resources/images/burger.jpg")) + ");\n    min-height: 500px;\n    background-attachment: fixed;\n    background-position: center;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n.top-div{\n    padding-top: 150px;\n    min-height: 500px!important;\n    background: none;\n}\n\n.top-title{\n    color: white!important;\n    font-family: Montserrat,\"Times New Roman\";\n    font-size: 50px;\n    font-weight: 600;\n}\n\n.top-subtitle{\n    color: white!important;\n    font-family: Roboto,\"Times New Roman\";\n    font-size: 24px;\n    font-weight: 300;\n}\n\n.des-text{\n    color: #262626!important;\n    font-family: Roboto,\"Times New Roman\";\n    font-size: 14px;\n    font-weight: 300;\n}\n\n.title-text{\n    color: #151446!important;\n    font-family: Montserrat,\"Times New Roman\";\n    font-size: 18px;\n    font-weight: 400;\n}\n\n.item-logo{\n    width: 50px;\n    height: 50px;\n}\n\n.item-logoSmall{\n    width: 20px;\n    height: 20px;\n}\n\n.play-logo{\n    width: 60px;\n    height: 60px;\n    cursor: pointer;\n}\n\n.section-margin{\n    margin-bottom: 50px;\n    margin-top: 50px;\n}\n\n.section-marginbg{\n    margin-bottom: 100px;\n    margin-top: 100px;\n}\n\n.section-marginTop{\n    margin-top: 100px;\n}\n\n.bkash-logo{\n    width: 120px;\n    height: 60px;\n}\n\n.card{\n    border-radius: 0% !important;\n}\n\n.modal{\n    border-radius: 0% !important;\n}\n\n.card:hover{\n    border: 0.5px solid #151446!important;\n}\n\n.offer-img{\n    width: 100%;\n    height: 200px;\n}\n\n.play-small{\n    width: 30px;\n    height: 30px;\n    cursor: pointer;\n}\n\n.footer-link{\n    color:rgba(75,48,223,1)!important;\n    text-decoration: none;\n}\n\n.custom-bg{\n    background-color: #151446!important;\n}\n\n.classroom-img{\n    width: 70%;\n}\n.form-control:focus{\n    border-color: black;\n    box-shadow: none;\n}\n.form-control{\n    box-shadow: none;\n    font-size: 14px;\n    font-weight: 300;\n    border-radius: 0% !important;\n}\n\n.card-img{\n    width: 100%;\n    border-radius: 0% !important;\n}\n\n.card{\n    width: 100%;\n}\n\n.credit-text{\n    color: white!important;\n    font-family: Roboto,\"Times New Roman\";\n    font-size: 14px;\n    font-weight: 300;\n}\n\n.top-titleClass{\n    color: #1a1e21!important;\n    font-family: Montserrat,\"Times New Roman\";\n    font-size: 40px;\n    font-weight: 600;\n}\n\n.top-subtitleClass{\n    color: #1a1e21!important;\n    font-family: Roboto,\"Times New Roman\";\n    font-size: 18px;\n    font-weight: 300;\n}\n\n#snackbar{\n    visibility: hidden;\n    min-width: 250px;\n    margin-left: -125px;\n    background-color: black;\n    color: #fff;\n    text-align: center;\n    border-radius: 0px;\n    padding: 16px;\n    position: fixed;\n    z-index: 1;\n    left: 50%;\n    bottom: 30px;\n    font-size: 17px;\n    font-family: Roboto,\"Times New Roman\";\n}\n\n#snackbar.show{\n    visibility: visible;\n    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;\n    animation: fadein 0.5s, fadeout 0.5s 2.5s;\n}\n\n#snackbarRecover{\n    visibility: hidden;\n    width: 100%;\n    background-color: black;\n    color: #fff;\n    text-align: center;\n    border-radius: 0px;\n    padding: 10px;\n    font-size: 14px;\n    font-family: Roboto,\"Times New Roman\";\n    font-weight: 400;\n}\n\n#snackbarRecover.show{\n    visibility: visible;\n    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;\n    animation: fadein 0.5s, fadeout 0.5s 2.5s;\n}\n\n#snackbarReset{\n    visibility: hidden;\n    width: 100%;\n    background-color: black;\n    color: #fff;\n    text-align: center;\n    border-radius: 0px;\n    padding: 10px;\n    font-size: 14px;\n    font-family: Roboto;\n    font-weight: 400;\n}\n#snackbarReset.show{\n    visibility: visible;\n    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;\n    animation: fadein 0.5s, fadeout 0.5s 2.5s;\n}\n@-webkit-keyframes fade-in {\n    from {bottom: 0px; opacity:0;}\n    to{bottom: 30px; opacity:1;}\n}\n\n@-webkit-keyframes fadein {\n    from {bottom: 0px; opacity:0;}\n    to{bottom: 30px; opacity:1;}\n}\n\n@keyframes fadein {\n    from {bottom: 0px; opacity:0;}\n    to{bottom: 30px; opacity:1;}\n}\n\n@-webkit-keyframes fade-out {\n    from {bottom: 30px; opacity:1;}\n    to{bottom: 0; opacity:0;}\n}\n\n@keyframes fade-out {\n    from {bottom: 30px; opacity:1;}\n    to{bottom: 0; opacity:0;}\n}\n\n.user-img{\n    width: 200px;\n}\n", ""]);
 
 // exports
 
@@ -51259,10 +51259,10 @@ var App = /*#__PURE__*/function (_Component) {
 
 /***/ }),
 
-/***/ "./resources/js/components/menu.js":
-/*!*****************************************!*\
-  !*** ./resources/js/components/menu.js ***!
-  \*****************************************/
+/***/ "./resources/js/components/HomeBanner.js":
+/*!***********************************************!*\
+  !*** ./resources/js/components/HomeBanner.js ***!
+  \***********************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -51292,6 +51292,79 @@ function _assertThisInitialized(self) { if (self === void 0) { throw new Referen
 function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
 
 function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
+
+
+
+
+var HomeBanner = /*#__PURE__*/function (_Component) {
+  _inherits(HomeBanner, _Component);
+
+  var _super = _createSuper(HomeBanner);
+
+  function HomeBanner() {
+    _classCallCheck(this, HomeBanner);
+
+    return _super.apply(this, arguments);
+  }
+
+  _createClass(HomeBanner, [{
+    key: "render",
+    value: function render() {
+      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0__["Fragment"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Container"], {
+        className: "parallax",
+        fluid: true
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Row"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Col"], {
+        lg: 12,
+        md: 12,
+        sm: 12
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+        className: "top-subtitle"
+      }, "There will be a image")))));
+    }
+  }]);
+
+  return HomeBanner;
+}(react__WEBPACK_IMPORTED_MODULE_0__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (HomeBanner);
+
+/***/ }),
+
+/***/ "./resources/js/components/menu.js":
+/*!*****************************************!*\
+  !*** ./resources/js/components/menu.js ***!
+  \*****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_bootstrap__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-bootstrap */ "./node_modules/react-bootstrap/esm/index.js");
+/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/esm/react-router-dom.js");
+function _typeof(obj) { "@babel/helpers - typeof"; return _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (obj) { return typeof obj; } : function (obj) { return obj && "function" == typeof Symbol && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }, _typeof(obj); }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
+
+function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); Object.defineProperty(Constructor, "prototype", { writable: false }); return Constructor; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); Object.defineProperty(subClass, "prototype", { writable: false }); if (superClass) _setPrototypeOf(subClass, superClass); }
+
+function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
+
+function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = _getPrototypeOf(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _getPrototypeOf(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _possibleConstructorReturn(this, result); }; }
+
+function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } else if (call !== void 0) { throw new TypeError("Derived constructors may only return object or undefined"); } return _assertThisInitialized(self); }
+
+function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
+
+function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
+
+function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
+
 
 
 
@@ -51326,10 +51399,24 @@ var Menu = /*#__PURE__*/function (_Component) {
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Nav"].Link, {
         className: "nav-font",
         href: "#home"
-      }, "Home"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Nav"].Link, {
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["NavLink"], {
+        to: "/"
+      }, "Home")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Nav"].Link, {
         className: "nav-font",
         href: "#link"
-      }, "Link"))))));
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["NavLink"], {
+        to: "/courseplan"
+      }, "Course Plan")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Nav"].Link, {
+        className: "nav-font",
+        href: "#link"
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["NavLink"], {
+        to: "/registration"
+      }, "Registration")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Nav"].Link, {
+        className: "nav-font",
+        href: "#link"
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["NavLink"], {
+        to: "/freeclass"
+      }, "Free Class")))))));
     }
   }]);
 
@@ -51514,6 +51601,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_menu__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/menu */ "./resources/js/components/menu.js");
+/* harmony import */ var _components_HomeBanner__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/HomeBanner */ "./resources/js/components/HomeBanner.js");
 function _typeof(obj) { "@babel/helpers - typeof"; return _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (obj) { return typeof obj; } : function (obj) { return obj && "function" == typeof Symbol && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }, _typeof(obj); }
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -51539,6 +51627,7 @@ function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.g
 
 
 
+
 var HomePage = /*#__PURE__*/function (_Component) {
   _inherits(HomePage, _Component);
 
@@ -51553,7 +51642,7 @@ var HomePage = /*#__PURE__*/function (_Component) {
   _createClass(HomePage, [{
     key: "render",
     value: function render() {
-      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0__["Fragment"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_menu__WEBPACK_IMPORTED_MODULE_1__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Home Page")));
+      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0__["Fragment"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_menu__WEBPACK_IMPORTED_MODULE_1__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_HomeBanner__WEBPACK_IMPORTED_MODULE_2__["default"], null));
     }
   }]);
 
