@@ -7,12 +7,12 @@ class Menu extends Component {
             <Fragment>
                 <Navbar bg="dark" variant="dark" expand="lg">
                     <Container>
-                        <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+                        <Navbar.Brand className="text-dark" href="#home">React-Bootstrap</Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="me-auto">
-                                <Nav.Link href="#home">Home</Nav.Link>
-                                <Nav.Link href="#link">Link</Nav.Link>
+                                <Nav.Link className="nav-font" href="#home">Home</Nav.Link>
+                                <Nav.Link className="nav-font" href="#link">Link</Nav.Link>
 
                             </Nav>
                         </Navbar.Collapse>
