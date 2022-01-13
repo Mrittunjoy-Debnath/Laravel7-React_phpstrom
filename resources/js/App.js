@@ -1,16 +1,14 @@
 import React, {Component} from 'react';
-import Menu from "./components/menu";
-import burger from "../images/burger.jpg";
 import "../css/style.css";
+import {BrowserRouter} from "react-router-dom";
+import AppRoute from "./route/AppRoute";
 
 class App extends Component {
     render() {
         return (
-            <div>
-                <Menu/>
-                <img src={burger}/>
-                <button className="normal-btn btn">Login Btn</button>
-            </div>
+            <BrowserRouter>
+                <AppRoute/>
+            </BrowserRouter>
         );
     }
 }
