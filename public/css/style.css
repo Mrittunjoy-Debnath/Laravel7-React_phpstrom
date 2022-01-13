@@ -1,0 +1,319 @@
+.btn{
+    border-radius: 0% !important;
+}
+.btn:focus{
+    box-shadow: none;
+}
+
+.nav-logo {
+    width: 120px;
+    height: 400px;
+}
+
+.nav-font{
+    color: #262626!important;
+    font-family: Roboto;
+    font-weight: 400;
+}
+
+.nav-font:hover{
+    color: #2f82c6;
+}
+
+.navbar{
+    background-color: white!important;
+    border-bottom: 0.2px solid #e4e4e4!important;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.bg-light{
+    background-color: #f0f0f0!important;
+}
+
+.login-btn {
+    color: white!important;
+    background: none;
+    border: 1px solid white!important;
+    padding-left: 70px!important;
+    padding-right: 70px!important;
+    font-size: 18px!important;
+    font-weight: 600!important;
+}
+
+.btn-outline{
+    color: #151446!important;
+    background: none;
+    border: 1px solid #151446!important;
+    padding-left: 20px!important;
+    padding-right: 20px!important;
+}
+
+.btn-outline:hover{
+    color: white!important;
+    background: #2f82c6;
+    border: 1px solid #2f82c6!important;
+    padding-left: 20px!important;
+    padding-right: 20px!important;
+}
+
+.normal-btn{
+    color: white!important;
+    background-color: #151446!important;
+}
+
+.normal-btn:hover{
+    background-color: #2f82c6;
+}
+
+.login-btn:hover{
+    color: #2f82c6!important;
+    background: white!important;
+    padding-left: 70px!important;
+    padding-right: 70px!important;
+    font-size: 18px;
+    font-weight: 600!important;
+}
+
+.parallax{
+    background-image: url("../images/burger.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-div{
+    padding-top: 150px;
+    min-height: 500px!important;
+    background: none;
+}
+
+.top-title{
+    color: white!important;
+    font-family: Montserrat,"Times New Roman";
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.top-subtitle{
+    color: white!important;
+    font-family: Roboto,"Times New Roman";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.des-text{
+    color: #262626!important;
+    font-family: Roboto,"Times New Roman";
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.title-text{
+    color: #151446!important;
+    font-family: Montserrat,"Times New Roman";
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.item-logo{
+    width: 50px;
+    height: 50px;
+}
+
+.item-logoSmall{
+    width: 20px;
+    height: 20px;
+}
+
+.play-logo{
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.section-margin{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.section-marginbg{
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.section-marginTop{
+    margin-top: 100px;
+}
+
+.bkash-logo{
+    width: 120px;
+    height: 60px;
+}
+
+.card{
+    border-radius: 0% !important;
+}
+
+.modal{
+    border-radius: 0% !important;
+}
+
+.card:hover{
+    border: 0.5px solid #151446!important;
+}
+
+.offer-img{
+    width: 100%;
+    height: 200px;
+}
+
+.play-small{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.footer-link{
+    color:rgba(75,48,223,1)!important;
+    text-decoration: none;
+}
+
+.custom-bg{
+    background-color: #151446!important;
+}
+
+.classroom-img{
+    width: 70%;
+}
+.form-control:focus{
+    border-color: black;
+    box-shadow: none;
+}
+.form-control{
+    box-shadow: none;
+    font-size: 14px;
+    font-weight: 300;
+    border-radius: 0% !important;
+}
+
+.card-img{
+    width: 100%;
+    border-radius: 0% !important;
+}
+
+.card{
+    width: 100%;
+}
+
+.credit-text{
+    color: white!important;
+    font-family: Roboto,"Times New Roman";
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.top-titleClass{
+    color: #1a1e21!important;
+    font-family: Montserrat,"Times New Roman";
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.top-subtitleClass{
+    color: #1a1e21!important;
+    font-family: Roboto,"Times New Roman";
+    font-size: 18px;
+    font-weight: 300;
+}
+
+#snackbar{
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 0px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: 17px;
+    font-family: Roboto,"Times New Roman";
+}
+
+#snackbar.show{
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+#snackbarRecover{
+    visibility: hidden;
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 0px;
+    padding: 10px;
+    font-size: 14px;
+    font-family: Roboto,"Times New Roman";
+    font-weight: 400;
+}
+
+#snackbarRecover.show{
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+#snackbarReset{
+    visibility: hidden;
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 0px;
+    padding: 10px;
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: 400;
+}
+#snackbarReset.show{
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+@-webkit-keyframes fade-in {
+    from {bottom: 0px; opacity:0;}
+    to{bottom: 30px; opacity:1;}
+}
+
+@keyframes fadein {
+    from {bottom: 0px; opacity:0;}
+    to{bottom: 30px; opacity:1;}
+}
+
+@-webkit-keyframes fade-out {
+    from {bottom: 30px; opacity:1;}
+    to{bottom: 0; opacity:0;}
+}
+
+@keyframes fade-out {
+    from {bottom: 30px; opacity:1;}
+    to{bottom: 0; opacity:0;}
+}
+
+.user-img{
+    width: 200px;
+}
