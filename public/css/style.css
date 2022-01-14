@@ -82,7 +82,7 @@ a:hover{
 }
 
 .parallax{
-    background-image: url("../images/burger.jpg");
+    background-image: url("../images/class.jpg");
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -121,7 +121,8 @@ a:hover{
     color: #151446!important;
     font-family: Montserrat,"Times New Roman";
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 700;
+
 }
 
 .item-logo{
@@ -316,4 +317,25 @@ a:hover{
 
 .user-img{
     width: 200px;
+}
+
+.loading-logo{
+    height: 20vmin;
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference){
+    .loading-logo{
+        animation: loading-logo-spin infinite 2s linear;
+    }
+}
+@keyframes loading-logo-spin {
+    from{
+        transform: rotate(0deg);
+
+    }
+    to{
+        transform: rotate(360deg);
+
+    }
 }

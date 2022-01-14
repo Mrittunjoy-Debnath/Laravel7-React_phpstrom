@@ -1,13 +1,14 @@
 import React, {Component, Fragment} from 'react';
 import {Col, Container, Row} from "react-bootstrap";
-
-class HomeBanner extends Component {
+import reactLogo from "../../images/reactLogo.svg";
+class LoadingDiv extends Component {
     render() {
         return (
             <Fragment>
-                <Container className="parallax" fluid>
+                <Container>
                     <Row>
-                        <Col lg={12} md={12} sm={12}>
+                        <Col>
+                            <img className="loading-logo" src={reactLogo}/>
                         </Col>
                     </Row>
                 </Container>
@@ -16,4 +17,4 @@ class HomeBanner extends Component {
     }
 }
 
-export default HomeBanner;
+export default LoadingDiv;

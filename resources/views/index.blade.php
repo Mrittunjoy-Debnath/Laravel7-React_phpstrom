@@ -15,6 +15,8 @@
         <div id="root">
 
         </div>
+
+        <script type="text/javascript" src="https://kit.fontawesome.com/e2f084b271.js"></script>
     <script type="text/javascript" src="{{asset('js/main.js')}}"></script>
     </body>
 </html>

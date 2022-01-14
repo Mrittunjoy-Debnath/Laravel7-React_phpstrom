@@ -1,13 +1,15 @@
 import React, {Component, Fragment} from 'react';
+import someWrong from "../../images/someWrong.jpg";
 import {Col, Container, Row} from "react-bootstrap";
-
-class HomeBanner extends Component {
+class WentWrong extends Component {
     render() {
         return (
             <Fragment>
-                <Container className="parallax" fluid>
+                <Container>
                     <Row>
-                        <Col lg={12} md={12} sm={12}>
+                        <Col>
+                            <img className="w-25" src={someWrong}/>
+                            <h2>This is went wrong div</h2>
                         </Col>
                     </Row>
                 </Container>
@@ -16,4 +18,4 @@ class HomeBanner extends Component {
     }
 }
 
-export default HomeBanner;
+export default WentWrong;
