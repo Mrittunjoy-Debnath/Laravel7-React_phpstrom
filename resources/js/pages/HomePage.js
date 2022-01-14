@@ -2,8 +2,8 @@ import React, {Component, Fragment} from 'react';
 import Menu from "../components/menu";
 import HomeBanner from "../components/HomeBanner";
 import CourseFeature from "../components/courseFeature";
-import LoadingDiv from "../components/LoadingDiv";
-import WentWrong from "../components/WentWrong";
+import CoursePlanHome from "../components/CoursePlanHome";
+import PaymentGuide from "../components/PaymentGuide";
 class HomePage extends Component {
 
 
@@ -13,6 +13,8 @@ class HomePage extends Component {
                 <Menu/>
                 <HomeBanner/>
                 <CourseFeature/>
+                <CoursePlanHome/>
+                <PaymentGuide/>
             </Fragment>
         );
     }
